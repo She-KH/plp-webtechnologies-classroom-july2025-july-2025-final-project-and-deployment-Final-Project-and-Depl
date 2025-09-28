@@ -88,3 +88,55 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+  
+## THE PROJECT FLOW IS AS SHOWS:
+
+project/
+│
+├── index.html # Homepage with image slider
+├── about.html # About page with looping video
+├── contact.html # Contact page with form
+│
+├── css/
+│ └── style.css # Styles for all pages
+│
+├── js/
+│ └── script.js # Interactivity (slider, hamburger menu, form validation)
+│
+├── images/ # Image assets for the slider and branding
+│ └── (slider1.jpg, slider2.jpg, ...)
+│
+├── videos/ # Video assets for the About page
+│ └── about-video.mp4
+│
+└── README.md # Project documentation
+
+# Student Transition Program Website
+
+This is a simple **responsive website** built with **HTML5, CSS3, and JavaScript** for the Student Transition Program.  
+The program helps high school graduates prepare for university life by equipping them with essential skills and knowledge.
+
+---
+
+## 🚀 Features
+- Responsive design (desktop + mobile friendly)
+- Image slider on the homepage
+- About page with auto-playing looping video
+- Contact form with JavaScript validation
+- Mobile navigation with hamburger menu
+
+---
+
+## ⚙️ How to Run
+
+it is deployed via this link
+
+https://she-kh.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
+---
+
+## 📱 Mobile Support
+- On smaller screens (≤768px), the navigation collapses into a **hamburger menu**.
+- The menu can be toggled open/closed by tapping the ☰ icon.
+
